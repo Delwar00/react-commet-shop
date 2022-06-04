@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "name": "Loafer Socks For men",
+      "slug": "loafer-socks-for-men",
+      "regular_price": "100",
+      "sale_price": "90",
+      "rating": "3",
+      "desc": "apnara products sell koren Baki fajlamo koren buji nah...Ami 2 pair order korse amk dise 1 pair tk nisen 2 pair er...Aber products",
+      "categoryId": "1",
+      "tagId": "3",
+      "photo": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17425128/2022/3/7/28962e57-82cf-4e53-8810-0981caa6c6b01646653306883SochWomenBlueFloralPrintedEmpireKurtiwithPatialaWithDupatta1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Nail Polish For Women",
+      "slug": "null-polish-for-women",
+      "regular_price": "23",
+      "sale_price": "20",
+      "rating": "5",
+      "desc": "fdsfds",
+      "categoryId": "1",
+      "tagId": "2",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsC8GwdAJeYyPzoRK6OKXs_ufHBxi4KPzwg&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "slug": "test",
+      "regular_price": "102",
+      "sale_price": "",
+      "rating": "5",
+      "desc": "fdssd",
+      "categoryId": "3",
+      "tagId": "3",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYshq8ZcW9G9ohpKWRRKvmTBUqW_OW5eix9A&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "panjabi wala lol",
+      "slug": "panjabi-wala-lol",
+      "regular_price": "123",
+      "sale_price": "",
+      "rating": "1",
+      "desc": "sdfs",
+      "categoryId": "4",
+      "tagId": "4",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4n2ZNNdojOBJI9fq0jYVvpaafmo49XM1Opw&usqp=CAU",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Men fashion",
+      "slug": "men-fashion"
+    },
+    {
+      "id": 2,
+      "name": "Women Cat",
+      "slug": "women-cat"
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "slug": "fashion"
+    },
+    {
+      "name": "Garments",
+      "slug": "garments",
+      "id": 4
+    },
+    {
+      "name": "Hosting Provide",
+      "slug": "hosting-provide",
+      "id": 5
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Woemen",
+      "slug": "woemen"
+    },
+    {
+      "name": "Man Fashion1",
+      "slug": "man-fashion1",
+      "id": 2
+    },
+    {
+      "name": "Clothing Fashion",
+      "slug": "clothing-fashion",
+      "id": 3
+    },
+    {
+      "name": "Panjabi Men",
+      "slug": "panjabi-men",
+      "id": 4
+    }
+  ]
+}
